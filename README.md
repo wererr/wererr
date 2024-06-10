@@ -1,16 +1,28 @@
-## Hi there 👋
+Welcome to my README!
 
-<!--
-**wererr/wererr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm [Artem], an aspiring programmer currently studying at TISBI. ‍
 
-Here are some ideas to get you started:
+I'm passionate about the world of software development and eager to become a skilled professional in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this repository, you will find:
+
+    My current projects and assignments.
+    Examples of my code.
+    Useful resources for aspiring programmers.
+    And much more!
+
+I'm always open to new ideas and collaboration.
+
+Feel free to leave comments and suggestions.
+
+Use emojis to make your README more engaging and fun!
+
+Here are some examples of emojis you can use:
+
+    ‍ - Programmer
+    ** - Book**
+    ** - Rocket**
+    ** - One hundred percent**
+    ** - Party**
+    ** - Smile**
+    ** - Cool**
